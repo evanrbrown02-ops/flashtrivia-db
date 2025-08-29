@@ -1,0 +1,1404 @@
+{
+  "questions": [
+    {
+      "id": "astro-001",
+      "category": "Astronomy",
+      "prompt": "Which planet has the largest volcano in the solar system?",
+      "answers": [
+        "Earth",
+        "Mars",
+        "Venus",
+        "Mercury"
+      ],
+      "correctIndex": 1,
+      "explanation": "Olympus Mons on Mars.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-002",
+      "category": "Astronomy",
+      "prompt": "What does a light‑year measure?",
+      "answers": [
+        "Time",
+        "Brightness",
+        "Distance",
+        "Mass"
+      ],
+      "correctIndex": 2,
+      "explanation": "Distance light travels in one year.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "astro-003",
+      "category": "Astronomy",
+      "prompt": "Who was the first person to walk on the Moon?",
+      "answers": [
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Neil Armstrong",
+        "Alan Shepard"
+      ],
+      "correctIndex": 2,
+      "explanation": "1969 Apollo 11 mission.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "astro-004",
+      "category": "Astronomy",
+      "prompt": "What galaxy is Earth located in?",
+      "answers": [
+        "Andromeda",
+        "Milky Way",
+        "Triangulum",
+        "Whirlpool"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Milky Way.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "astro-005",
+      "category": "Astronomy",
+      "prompt": "Which planet rotates on its side (~98° tilt)?",
+      "answers": [
+        "Uranus",
+        "Neptune",
+        "Saturn",
+        "Jupiter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Uranus has an extreme tilt.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-006",
+      "category": "Astronomy",
+      "prompt": "Which is the hottest planet in the solar system?",
+      "answers": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Venus’s dense atmosphere traps heat.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "astro-007",
+      "category": "Astronomy",
+      "prompt": "Which planet is known as the Red Planet?",
+      "answers": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Mercury"
+      ],
+      "correctIndex": 0,
+      "explanation": "Iron oxide dust gives Mars its color.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "astro-008",
+      "category": "Astronomy",
+      "prompt": "In 2006, Pluto was reclassified as what?",
+      "answers": [
+        "Comet",
+        "Asteroid",
+        "Dwarf planet",
+        "Exoplanet"
+      ],
+      "correctIndex": 2,
+      "explanation": "IAU redefinition in 2006.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-009",
+      "category": "Astronomy",
+      "prompt": "The closest star to Earth after the Sun is?",
+      "answers": [
+        "Sirius",
+        "Proxima Centauri",
+        "Alpha Centauri A",
+        "Barnard’s Star"
+      ],
+      "correctIndex": 1,
+      "explanation": "Proxima Centauri.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-010",
+      "category": "Astronomy",
+      "prompt": "Which planet is the largest in the solar system?",
+      "answers": [
+        "Saturn",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jupiter.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "astro-011",
+      "category": "Astronomy",
+      "prompt": "Which planet has the most prominent rings?",
+      "answers": [
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-012",
+      "category": "Astronomy",
+      "prompt": "What is the name of our star?",
+      "answers": [
+        "The Sun (Sol)",
+        "Sirius",
+        "Polaris",
+        "Vega"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-013",
+      "category": "Astronomy",
+      "prompt": "What causes Earth’s seasons?",
+      "answers": [
+        "Axial tilt",
+        "Distance to Sun",
+        "Moon’s gravity",
+        "Solar flares"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-014",
+      "category": "Astronomy",
+      "prompt": "Which telescope collaboration produced the first black hole image?",
+      "answers": [
+        "Event Horizon Telescope",
+        "Hubble",
+        "Spitzer",
+        "Chandra"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-015",
+      "category": "Astronomy",
+      "prompt": "What does AU (astronomical unit) approximate?",
+      "answers": [
+        "Earth–Sun average distance",
+        "Earth–Moon distance",
+        "Sun’s radius",
+        "Jupiter’s orbit"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-016",
+      "category": "Astronomy",
+      "prompt": "Which gas is most abundant in Earth’s atmosphere?",
+      "answers": [
+        "Nitrogen",
+        "Oxygen",
+        "Argon",
+        "CO₂"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-017",
+      "category": "Astronomy",
+      "prompt": "Which space telescope launched in 2021 for infrared?",
+      "answers": [
+        "JWST",
+        "Hubble",
+        "Kepler",
+        "Gaia"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-018",
+      "category": "Astronomy",
+      "prompt": "Which comet is famous for ~76‑year period?",
+      "answers": [
+        "Halley’s Comet",
+        "Hale‑Bopp",
+        "Encke",
+        "Swift‑Tuttle"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-019",
+      "category": "Astronomy",
+      "prompt": "Which planet is closest to the Sun?",
+      "answers": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-020",
+      "category": "Astronomy",
+      "prompt": "Which planet has the Great Red Spot?",
+      "answers": [
+        "Jupiter",
+        "Saturn",
+        "Neptune",
+        "Uranus"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-021",
+      "category": "Astronomy",
+      "prompt": "Which is Earth’s natural satellite called?",
+      "answers": [
+        "Moon",
+        "Phobos",
+        "Europa",
+        "Titan"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-022",
+      "category": "Astronomy",
+      "prompt": "Which planet has a moon named Titan?",
+      "answers": [
+        "Saturn",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-023",
+      "category": "Astronomy",
+      "prompt": "Which planet has a moon named Europa?",
+      "answers": [
+        "Jupiter",
+        "Saturn",
+        "Neptune",
+        "Uranus"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-024",
+      "category": "Astronomy",
+      "prompt": "Which mission first landed humans on the Moon?",
+      "answers": [
+        "Apollo 11",
+        "Apollo 12",
+        "Apollo 8",
+        "Apollo 13"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-025",
+      "category": "Astronomy",
+      "prompt": "What is the term for a star’s explosive death?",
+      "answers": [
+        "Supernova",
+        "Nova",
+        "Quasar",
+        "Nebula"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-026",
+      "category": "Astronomy",
+      "prompt": "What force keeps planets in orbit?",
+      "answers": [
+        "Gravity",
+        "Magnetism",
+        "Electrostatic",
+        "Friction"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-027",
+      "category": "Astronomy",
+      "prompt": "What kind of galaxy is the Milky Way?",
+      "answers": [
+        "Barred spiral",
+        "Elliptical",
+        "Irregular",
+        "Ring"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-028",
+      "category": "Astronomy",
+      "prompt": "Which planet has the most moons (as of common counts)?",
+      "answers": [
+        "Saturn",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-029",
+      "category": "Astronomy",
+      "prompt": "What is a black hole’s boundary called?",
+      "answers": [
+        "Event horizon",
+        "Photosphere",
+        "Corona",
+        "Magnetopause"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-030",
+      "category": "Astronomy",
+      "prompt": "Which planet has extreme winds and a dark spot feature?",
+      "answers": [
+        "Neptune",
+        "Uranus",
+        "Saturn",
+        "Jupiter"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-031",
+      "category": "Astronomy",
+      "prompt": "Which planet is known for beautiful rings besides Saturn?",
+      "answers": [
+        "Uranus",
+        "Neptune",
+        "Jupiter",
+        "None"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-032",
+      "category": "Astronomy",
+      "prompt": "Which dwarf planet is in the asteroid belt?",
+      "answers": [
+        "Ceres",
+        "Pluto",
+        "Eris",
+        "Haumea"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-033",
+      "category": "Astronomy",
+      "prompt": "Which dwarf planet is in the Kuiper Belt?",
+      "answers": [
+        "Pluto",
+        "Ceres",
+        "Vesta",
+        "Pallas"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-034",
+      "category": "Astronomy",
+      "prompt": "Which meteoroid becomes a 'shooting star' in atmosphere?",
+      "answers": [
+        "Meteor",
+        "Meteorite",
+        "Comet",
+        "Asteroid"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-035",
+      "category": "Astronomy",
+      "prompt": "What is the term for a planet outside our solar system?",
+      "answers": [
+        "Exoplanet",
+        "Eccentric planet",
+        "Rogue planet",
+        "Hot planet"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-036",
+      "category": "Astronomy",
+      "prompt": "Which NASA rover landed on Mars in 2021?",
+      "answers": [
+        "Perseverance",
+        "Curiosity",
+        "Opportunity",
+        "Spirit"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-037",
+      "category": "Astronomy",
+      "prompt": "Which Mars rover discovered evidence of ancient water?",
+      "answers": [
+        "Opportunity",
+        "Viking 1",
+        "Sojourner",
+        "Galileo"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-038",
+      "category": "Astronomy",
+      "prompt": "What is the name of the galaxy nearest to the Milky Way?",
+      "answers": [
+        "Andromeda",
+        "Triangulum",
+        "Whirlpool",
+        "Sombrero"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-039",
+      "category": "Astronomy",
+      "prompt": "What is a light‑gathering instrument in telescopes?",
+      "answers": [
+        "Mirror/Lens",
+        "Diode",
+        "Antenna",
+        "Transistor"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-040",
+      "category": "Astronomy",
+      "prompt": "What is the term for brightness a star would have at 10pc?",
+      "answers": [
+        "Absolute magnitude",
+        "Apparent magnitude",
+        "Luminosity class",
+        "Spectral index"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-041",
+      "category": "Astronomy",
+      "prompt": "What type of star will the Sun become near end of life?",
+      "answers": [
+        "Red giant",
+        "Neutron star",
+        "Black hole",
+        "Blue giant"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-042",
+      "category": "Astronomy",
+      "prompt": "What remains after a supernova for massive stars?",
+      "answers": [
+        "Neutron star/Black hole",
+        "White dwarf",
+        "Brown dwarf",
+        "Red giant"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-043",
+      "category": "Astronomy",
+      "prompt": "What is a planetary nebula?",
+      "answers": [
+        "Shell ejected by dying star",
+        "Gas around planets",
+        "Comet tail",
+        "Solar flare"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-044",
+      "category": "Astronomy",
+      "prompt": "Which star is the North Star currently?",
+      "answers": [
+        "Polaris",
+        "Sirius",
+        "Deneb",
+        "Betelgeuse"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-045",
+      "category": "Astronomy",
+      "prompt": "What is the Kuiper Belt?",
+      "answers": [
+        "Region beyond Neptune",
+        "Asteroid belt",
+        "Oort Cloud",
+        "Ring of Saturn"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-046",
+      "category": "Astronomy",
+      "prompt": "What is the Oort Cloud?",
+      "answers": [
+        "Distant icy reservoir",
+        "Asteroid belt",
+        "Corona",
+        "Magnetosphere"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-047",
+      "category": "Astronomy",
+      "prompt": "Which planet has Olympus Mons?",
+      "answers": [
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Earth"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-048",
+      "category": "Astronomy",
+      "prompt": "Which planet has Valles Marineris canyon system?",
+      "answers": [
+        "Mars",
+        "Earth",
+        "Venus",
+        "Mercury"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-049",
+      "category": "Astronomy",
+      "prompt": "Which planet’s day is longer than its year?",
+      "answers": [
+        "Venus",
+        "Mercury",
+        "Mars",
+        "Jupiter"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-050",
+      "category": "Astronomy",
+      "prompt": "Which planet has prominent hexagon at its pole (atmospheric feature)?",
+      "answers": [
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-051",
+      "category": "Astronomy",
+      "prompt": "Which moon is geologically active with volcanoes?",
+      "answers": [
+        "Io",
+        "Europa",
+        "Ganymede",
+        "Callisto"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-052",
+      "category": "Astronomy",
+      "prompt": "Which moon likely has subsurface ocean?",
+      "answers": [
+        "Europa",
+        "Io",
+        "Ganymede",
+        "Callisto"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-053",
+      "category": "Astronomy",
+      "prompt": "Which moon is largest in solar system?",
+      "answers": [
+        "Ganymede",
+        "Titan",
+        "Callisto",
+        "Triton"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-054",
+      "category": "Astronomy",
+      "prompt": "Which planet’s rings are made of ice and rock?",
+      "answers": [
+        "Saturn",
+        "Venus",
+        "Mars",
+        "Mercury"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-055",
+      "category": "Astronomy",
+      "prompt": "What do we call a star’s color index related to temperature?",
+      "answers": [
+        "Spectral type",
+        "Parallax",
+        "Redshift",
+        "Albedo"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-056",
+      "category": "Astronomy",
+      "prompt": "What is redshift commonly used to measure?",
+      "answers": [
+        "Recession/velocity/distance",
+        "Temperature",
+        "Composition",
+        "Mass"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-057",
+      "category": "Astronomy",
+      "prompt": "Which Greek letter often denotes brightness rank in constellations?",
+      "answers": [
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "Delta"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-058",
+      "category": "Astronomy",
+      "prompt": "What is a constellation?",
+      "answers": [
+        "Pattern of stars",
+        "Planetary system",
+        "Galaxy cluster",
+        "Meteor shower"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-059",
+      "category": "Astronomy",
+      "prompt": "What is parallax used to determine?",
+      "answers": [
+        "Distance to nearby stars",
+        "Star color",
+        "Mass of planets",
+        "Age of galaxies"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-060",
+      "category": "Astronomy",
+      "prompt": "Which effect causes star positions to shift yearly due to Earth’s orbit?",
+      "answers": [
+        "Parallax",
+        "Refraction",
+        "Doppler",
+        "Aberration"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-061",
+      "category": "Astronomy",
+      "prompt": "What are sunspots?",
+      "answers": [
+        "Cooler dark regions",
+        "Bright flares",
+        "Comets",
+        "Asteroids"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-062",
+      "category": "Astronomy",
+      "prompt": "What is solar wind?",
+      "answers": [
+        "Stream of charged particles",
+        "Light waves",
+        "Sound waves",
+        "Dust"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-063",
+      "category": "Astronomy",
+      "prompt": "What protects Earth from solar wind?",
+      "answers": [
+        "Magnetosphere",
+        "Ozone layer",
+        "Clouds",
+        "Tectonics"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-064",
+      "category": "Astronomy",
+      "prompt": "What is aurora caused by?",
+      "answers": [
+        "Solar particles & magnetic fields",
+        "Meteors",
+        "Volcanoes",
+        "Lightning"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-065",
+      "category": "Astronomy",
+      "prompt": "Which planet has a strong magnetic field visible via auroras?",
+      "answers": [
+        "Jupiter",
+        "Mars",
+        "Venus",
+        "Mercury"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-066",
+      "category": "Astronomy",
+      "prompt": "Which mission studied Saturn and its moons extensively?",
+      "answers": [
+        "Cassini",
+        "Voyager 1",
+        "New Horizons",
+        "Juno"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-067",
+      "category": "Astronomy",
+      "prompt": "Which mission flew by Pluto in 2015?",
+      "answers": [
+        "New Horizons",
+        "Voyager 2",
+        "Pioneer 10",
+        "Dawn"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-068",
+      "category": "Astronomy",
+      "prompt": "Which mission orbits Jupiter to study its atmosphere & magnetosphere?",
+      "answers": [
+        "Juno",
+        "Galileo",
+        "Kepler",
+        "Magellan"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-069",
+      "category": "Astronomy",
+      "prompt": "Which telescope discovered thousands of exoplanet candidates?",
+      "answers": [
+        "Kepler",
+        "Hubble",
+        "Spitzer",
+        "Chandra"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-070",
+      "category": "Astronomy",
+      "prompt": "What are the Orionids and Perseids examples of?",
+      "answers": [
+        "Meteor showers",
+        "Comets",
+        "Nebulae",
+        "Galaxies"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-071",
+      "category": "Astronomy",
+      "prompt": "Which constellation contains Betelgeuse and Rigel?",
+      "answers": [
+        "Orion",
+        "Ursa Major",
+        "Lyra",
+        "Cygnus"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-072",
+      "category": "Astronomy",
+      "prompt": "Which star is the brightest in the night sky?",
+      "answers": [
+        "Sirius",
+        "Canopus",
+        "Arcturus",
+        "Vega"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-073",
+      "category": "Astronomy",
+      "prompt": "What is a binary star system?",
+      "answers": [
+        "Two stars orbiting each other",
+        "Star with two planets",
+        "Star with two moons",
+        "Two galaxies"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-074",
+      "category": "Astronomy",
+      "prompt": "What is a galaxy cluster?",
+      "answers": [
+        "Group of galaxies",
+        "Group of stars",
+        "Group of planets",
+        "Group of comets"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-075",
+      "category": "Astronomy",
+      "prompt": "What is dark matter inferred from?",
+      "answers": [
+        "Gravitational effects",
+        "Direct light",
+        "Heat",
+        "Sound"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-076",
+      "category": "Astronomy",
+      "prompt": "What is dark energy associated with?",
+      "answers": [
+        "Accelerated expansion",
+        "Star births",
+        "Black hole jets",
+        "Auroras"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-077",
+      "category": "Astronomy",
+      "prompt": "What is a quasar?",
+      "answers": [
+        "Active galactic nucleus",
+        "Young star",
+        "Comet",
+        "Asteroid"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-078",
+      "category": "Astronomy",
+      "prompt": "What is a pulsar?",
+      "answers": [
+        "Rotating neutron star",
+        "Variable star",
+        "Comet",
+        "Brown dwarf"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-079",
+      "category": "Astronomy",
+      "prompt": "Which color stars are generally hottest?",
+      "answers": [
+        "Blue",
+        "Red",
+        "Yellow",
+        "Orange"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-080",
+      "category": "Astronomy",
+      "prompt": "Which color stars are generally coolest?",
+      "answers": [
+        "Red",
+        "Blue",
+        "White",
+        "Green"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-081",
+      "category": "Astronomy",
+      "prompt": "What is the main sequence?",
+      "answers": [
+        "Stable hydrogen‑burning phase",
+        "Planet formation stage",
+        "Nebula stage",
+        "End stage"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-082",
+      "category": "Astronomy",
+      "prompt": "What is fusion in stars primarily converting?",
+      "answers": [
+        "Hydrogen to helium",
+        "Helium to carbon",
+        "Oxygen to iron",
+        "Iron to nickel"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-083",
+      "category": "Astronomy",
+      "prompt": "What balances gravity in stable stars?",
+      "answers": [
+        "Thermal pressure from fusion",
+        "Magnetism",
+        "Dark matter",
+        "Rotation"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-084",
+      "category": "Astronomy",
+      "prompt": "What is albedo?",
+      "answers": [
+        "Reflectivity",
+        "Temperature",
+        "Mass",
+        "Density"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-085",
+      "category": "Astronomy",
+      "prompt": "What’s the approximate age of the universe (order of magnitude)?",
+      "answers": [
+        "~14 billion years",
+        "~1 billion years",
+        "~100 million years",
+        "~100 billion years"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-086",
+      "category": "Astronomy",
+      "prompt": "What is the Big Bang?",
+      "answers": [
+        "Origin expansion event",
+        "Star explosion",
+        "Black hole birth",
+        "Comet impact"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-087",
+      "category": "Astronomy",
+      "prompt": "What is cosmic microwave background (CMB)?",
+      "answers": [
+        "Afterglow of Big Bang",
+        "Solar radiation",
+        "Aurora",
+        "Nebula light"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-088",
+      "category": "Astronomy",
+      "prompt": "What is Hubble’s Law?",
+      "answers": [
+        "Recession speed ~ distance",
+        "Mass ~ luminosity",
+        "Age ~ metallicity",
+        "Temp ~ color"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-089",
+      "category": "Astronomy",
+      "prompt": "What is the term for brightness seen from Earth?",
+      "answers": [
+        "Apparent magnitude",
+        "Absolute magnitude",
+        "Luminosity",
+        "Irradiance"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-090",
+      "category": "Astronomy",
+      "prompt": "Which instrument splits light into spectrum?",
+      "answers": [
+        "Spectroscope",
+        "Microscope",
+        "Telescope",
+        "Periscope"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-091",
+      "category": "Astronomy",
+      "prompt": "What is an exoplanet transit?",
+      "answers": [
+        "Planet passes in front of star",
+        "Planet leaves system",
+        "Comet passes by",
+        "Asteroid impact"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-092",
+      "category": "Astronomy",
+      "prompt": "Which mission aims to map a billion stars precisely?",
+      "answers": [
+        "Gaia",
+        "Hubble",
+        "Kepler",
+        "TESS"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-093",
+      "category": "Astronomy",
+      "prompt": "What is TESS used for?",
+      "answers": [
+        "Exoplanet hunting",
+        "Solar studies",
+        "Asteroid mining",
+        "Weather"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-094",
+      "category": "Astronomy",
+      "prompt": "What is a brown dwarf?",
+      "answers": [
+        "Sub‑stellar object",
+        "Small asteroid",
+        "Icy comet",
+        "White dwarf"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-095",
+      "category": "Astronomy",
+      "prompt": "Which body is a large asteroid/dwarf planet visited by Dawn?",
+      "answers": [
+        "Ceres",
+        "Eros",
+        "Itokawa",
+        "Pallas"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-096",
+      "category": "Astronomy",
+      "prompt": "Which planet has a day roughly 10 hours long?",
+      "answers": [
+        "Jupiter",
+        "Earth",
+        "Mars",
+        "Venus"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-097",
+      "category": "Astronomy",
+      "prompt": "Which planet has striking blue color due to methane?",
+      "answers": [
+        "Neptune",
+        "Mars",
+        "Mercury",
+        "Venus"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-098",
+      "category": "Astronomy",
+      "prompt": "Which mission first orbited Mercury?",
+      "answers": [
+        "MESSENGER",
+        "Mariner 10",
+        "Pioneer",
+        "Magellan"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-099",
+      "category": "Astronomy",
+      "prompt": "Which mission mapped Venus with radar?",
+      "answers": [
+        "Magellan",
+        "Pioneer 10",
+        "Voyager 2",
+        "Juno"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "astro-100",
+      "category": "Astronomy",
+      "prompt": "Which gas dominates Venus’s atmosphere?",
+      "answers": [
+        "CO₂",
+        "O₂",
+        "N₂",
+        "CH₄"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    }
+  ]
+}

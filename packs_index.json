@@ -1,0 +1,23 @@
+[
+  {
+    "id": "pack-office",
+    "title": "The Office (All Seasons)",
+    "priceCoins": 120,
+    "url": "https://raw.githubusercontent.com/evanrbrown02-ops/flashtrivia-db/main/packs/office_100.json",
+    "previewCount": 5
+  },
+  {
+    "id": "pack-nba-legends",
+    "title": "NBA Legends",
+    "priceCoins": 110,
+    "url": "https://raw.githubusercontent.com/evanrbrown02-ops/flashtrivia-db/main/packs/nba_100.json",
+    "previewCount": 5
+  },
+  {
+    "id": "pack-astronomy",
+    "title": "Space & Astronomy",
+    "priceCoins": 100,
+    "url": "https://raw.githubusercontent.com/evanrbrown02-ops/flashtrivia-db/main/packs/astronomy_100.json",
+    "previewCount": 5
+  }
+]

@@ -1,0 +1,1404 @@
+{
+  "questions": [
+    {
+      "id": "office-001",
+      "category": "The Office",
+      "prompt": "What city is Dunder Mifflin’s Scranton branch located in?",
+      "answers": [
+        "Buffalo",
+        "Scranton",
+        "Stamford",
+        "Utica"
+      ],
+      "correctIndex": 1,
+      "explanation": "The series is set in Scranton, Pennsylvania.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-002",
+      "category": "The Office",
+      "prompt": "Who starts the Michael Scott Paper Company?",
+      "answers": [
+        "Michael, Pam, and Ryan",
+        "Jim and Dwight",
+        "Jan and Michael",
+        "Andy and Kelly"
+      ],
+      "correctIndex": 0,
+      "explanation": "They leave Dunder Mifflin temporarily to form MSPC.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-003",
+      "category": "The Office",
+      "prompt": "What is Dwight Schrute’s beet farm called?",
+      "answers": [
+        "Schrute Farms",
+        "Beet World",
+        "Penn Farm",
+        "Mose Acres"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dwight runs Schrute Farms with his cousin Mose.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-004",
+      "category": "The Office",
+      "prompt": "Which prank does Jim pull in the pilot episode?",
+      "answers": [
+        "Puts Dwight's stapler in Jell-O",
+        "Moves Dwight’s desk to the bathroom",
+        "Replaces Dwight’s chair with a yoga ball",
+        "Puts pennies in Dwight’s handset"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Jell‑O stapler is an early classic.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-005",
+      "category": "The Office",
+      "prompt": "Who is 'Assistant to the Regional Manager'?",
+      "answers": [
+        "Pam Beesly",
+        "Jim Halpert",
+        "Dwight Schrute",
+        "Stanley Hudson"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dwight clings to the title.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-006",
+      "category": "The Office",
+      "prompt": "What annual award ceremony does Michael host?",
+      "answers": [
+        "The Dundies",
+        "The Mifflins",
+        "Branchies",
+        "Scranties"
+      ],
+      "correctIndex": 0,
+      "explanation": "Held at Chili’s.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-007",
+      "category": "The Office",
+      "prompt": "Which character burns his foot on a George Foreman grill?",
+      "answers": [
+        "Andy",
+        "Kevin",
+        "Michael",
+        "Creed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Michael likes to wake up to the smell of bacon.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-008",
+      "category": "The Office",
+      "prompt": "Pam briefly attends art school in which city?",
+      "answers": [
+        "Boston",
+        "New York",
+        "Philadelphia",
+        "Pittsburgh"
+      ],
+      "correctIndex": 1,
+      "explanation": "She attends Pratt Institute in NYC.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-009",
+      "category": "The Office",
+      "prompt": "Who works in Human Resources at Scranton?",
+      "answers": [
+        "Toby Flenderson",
+        "David Wallace",
+        "Charles Miner",
+        "Gabe Lewis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Toby is HR at Scranton.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-010",
+      "category": "The Office",
+      "prompt": "Kevin plays drums in which band?",
+      "answers": [
+        "The Nard Dogs",
+        "Vance Refrigeration",
+        "The Scab",
+        "Scrantonicity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Police cover band.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-011",
+      "category": "The Office",
+      "prompt": "What is Creed Bratton’s job at Dunder Mifflin?",
+      "answers": [
+        "Quality Assurance",
+        "Accounting",
+        "Sales",
+        "Customer Service"
+      ],
+      "correctIndex": 0,
+      "explanation": "Creed is in QA.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-012",
+      "category": "The Office",
+      "prompt": "Andy Bernard graduated from which university?",
+      "answers": [
+        "Princeton",
+        "Yale",
+        "Cornell",
+        "Dartmouth"
+      ],
+      "correctIndex": 2,
+      "explanation": "He mentions Cornell frequently.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-013",
+      "category": "The Office",
+      "prompt": "Which branch merges into Scranton in Season 3?",
+      "answers": [
+        "Utica",
+        "Nashua",
+        "Stamford",
+        "Buffalo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stamford merges into Scranton.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-014",
+      "category": "The Office",
+      "prompt": "What is Jan’s candle business called?",
+      "answers": [
+        "Serenity by Jan",
+        "Jan’s Candles",
+        "Candle Co. Jan",
+        "Jan Scents"
+      ],
+      "correctIndex": 0,
+      "explanation": "Her side venture.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-015",
+      "category": "The Office",
+      "prompt": "Which episode features Dwight’s chaotic fire drill cold open?",
+      "answers": [
+        "Stress Relief",
+        "Safety Training",
+        "The Fire",
+        "Cafe Disco"
+      ],
+      "correctIndex": 0,
+      "explanation": "Iconic cold open.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-016",
+      "category": "The Office",
+      "prompt": "Who spills the pot of chili in a cold open?",
+      "answers": [
+        "Kevin",
+        "Stanley",
+        "Oscar",
+        "Meredith"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kevin’s famous chili.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-017",
+      "category": "The Office",
+      "prompt": "During CPR training, which song sets the compression rhythm?",
+      "answers": [
+        "Beat It",
+        "Stayin’ Alive",
+        "Another One Bites the Dust",
+        "Dancing Queen"
+      ],
+      "correctIndex": 1,
+      "explanation": "About 100–120 BPM.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-018",
+      "category": "The Office",
+      "prompt": "What is the name of Angela’s cat involved in a freezer incident?",
+      "answers": [
+        "Bandit",
+        "Sprinkles",
+        "Princess",
+        "Pepper"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 'Sprinkles' incident.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-019",
+      "category": "The Office",
+      "prompt": "Who is Phyllis married to?",
+      "answers": [
+        "Bob Vance",
+        "Roy Anderson",
+        "Charles Miner",
+        "Clark"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bob Vance of Vance Refrigeration.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-020",
+      "category": "The Office",
+      "prompt": "Which branch does Karen Filippelli later manage?",
+      "answers": [
+        "Utica",
+        "Akron",
+        "Nashua",
+        "Buffalo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Karen goes to Utica.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-021",
+      "category": "The Office",
+      "prompt": "Which company acquires Dunder Mifflin mid-series?",
+      "answers": [
+        "Sabre",
+        "Prince Family Paper",
+        "Staples",
+        "Athlead"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sabre acquisition changes things.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-022",
+      "category": "The Office",
+      "prompt": "Who co-founds Athlead with Jim?",
+      "answers": [
+        "Darryl Philbin",
+        "Ryan Howard",
+        "Andy Bernard",
+        "Gabe Lewis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sports marketing venture.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-023",
+      "category": "The Office",
+      "prompt": "Who first replaces Michael as regional manager after he leaves?",
+      "answers": [
+        "Deangelo Vickers",
+        "Dwight Schrute",
+        "Creed Bratton",
+        "Andy Bernard"
+      ],
+      "correctIndex": 0,
+      "explanation": "Brief tenure.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-024",
+      "category": "The Office",
+      "prompt": "Who is the receptionist after Pam becomes a salesperson?",
+      "answers": [
+        "Erin Hannon",
+        "Kelly Kapoor",
+        "Meredith Palmer",
+        "Jan Levinson"
+      ],
+      "correctIndex": 0,
+      "explanation": "Erin takes over reception.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-025",
+      "category": "The Office",
+      "prompt": "What is the name of Michael’s action screenplay?",
+      "answers": [
+        "Threat Level Midnight",
+        "Agent Michael Scarn",
+        "Midnight Threat",
+        "Operation Scarn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Features Agent Michael Scarn.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-026",
+      "category": "The Office",
+      "prompt": "What is the CFO’s name during much of the series?",
+      "answers": [
+        "Robert California",
+        "Josh Porter",
+        "David Wallace",
+        "Charles Miner"
+      ],
+      "correctIndex": 2,
+      "explanation": "David Wallace is CFO.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-027",
+      "category": "The Office",
+      "prompt": "Which salesman has a mustache in later seasons?",
+      "answers": [
+        "Stanley Hudson",
+        "Jim Halpert",
+        "Phyllis Vance",
+        "Meredith Palmer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stanley occasionally sports a mustache.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-028",
+      "category": "The Office",
+      "prompt": "What is Ryan Howard’s original job title?",
+      "answers": [
+        "Temp",
+        "Manager",
+        "Salesman",
+        "HR"
+      ],
+      "correctIndex": 0,
+      "explanation": "He starts as a temp.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-029",
+      "category": "The Office",
+      "prompt": "What is Kelly Kapoor’s department?",
+      "answers": [
+        "Customer Service",
+        "Accounting",
+        "Sales",
+        "Warehouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kelly works in customer service.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-030",
+      "category": "The Office",
+      "prompt": "Who manages the warehouse for most of the show?",
+      "answers": [
+        "Darryl Philbin",
+        "Lonny Collins",
+        "Roy Anderson",
+        "Nate Nickerson"
+      ],
+      "correctIndex": 0,
+      "explanation": "Darryl runs the warehouse.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-031",
+      "category": "The Office",
+      "prompt": "Who is Dwight’s cousin who lives at the farm?",
+      "answers": [
+        "Mose",
+        "Rolf",
+        "Todd",
+        "Nate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mose Schrute.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-032",
+      "category": "The Office",
+      "prompt": "What is the name of Michael’s movie villain?",
+      "answers": [
+        "Goldenface",
+        "Silverhand",
+        "Blackmask",
+        "Ironjaw"
+      ],
+      "correctIndex": 0,
+      "explanation": "Goldenface is the villain in Threat Level Midnight.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-033",
+      "category": "The Office",
+      "prompt": "Who is the traveling salesman who often naps?",
+      "answers": [
+        "Stanley Hudson",
+        "Creed Bratton",
+        "Meredith Palmer",
+        "Phyllis Vance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stanley tolerates little nonsense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-034",
+      "category": "The Office",
+      "prompt": "Jim’s high school nickname was?",
+      "answers": [
+        "Big Tuna",
+        "Big Halpert",
+        "Jimmer",
+        "Tuna Jim"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andy calls him Big Tuna.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-035",
+      "category": "The Office",
+      "prompt": "Who works at Vance Refrigeration next door?",
+      "answers": [
+        "Bob Vance",
+        "Roy Anderson",
+        "Darryl Philbin",
+        "Karen Filippelli"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bob Vance, Vance Refrigeration.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-036",
+      "category": "The Office",
+      "prompt": "Which character loves cats and is very strict?",
+      "answers": [
+        "Angela Martin",
+        "Phyllis Vance",
+        "Pam Beesly",
+        "Kelly Kapoor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Angela is the cat lover.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-037",
+      "category": "The Office",
+      "prompt": "What is Oscar’s department?",
+      "answers": [
+        "Accounting",
+        "Sales",
+        "HR",
+        "IT"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oscar Martinez is in accounting.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-038",
+      "category": "The Office",
+      "prompt": "Whose desk is often the target of Jim’s pranks?",
+      "answers": [
+        "Dwight",
+        "Phyllis",
+        "Stanley",
+        "Kevin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mostly Dwight.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-039",
+      "category": "The Office",
+      "prompt": "Which character tries an anger management program?",
+      "answers": [
+        "Andy Bernard",
+        "Dwight Schrute",
+        "Michael Scott",
+        "Ryan Howard"
+      ],
+      "correctIndex": 0,
+      "explanation": "Following a punching incident.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-040",
+      "category": "The Office",
+      "prompt": "What is Meredith’s job area?",
+      "answers": [
+        "Supplier Relations",
+        "Accounting",
+        "IT Support",
+        "HR"
+      ],
+      "correctIndex": 0,
+      "explanation": "Meredith handles supplier relations.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-041",
+      "category": "The Office",
+      "prompt": "Who becomes a salesman after working reception?",
+      "answers": [
+        "Pam Beesly",
+        "Erin Hannon",
+        "Holly Flax",
+        "Meredith Palmer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pam transitions to sales.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-042",
+      "category": "The Office",
+      "prompt": "What is Holly Flax’s department?",
+      "answers": [
+        "HR",
+        "Sales",
+        "Accounting",
+        "Warehouse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Holly is HR.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-043",
+      "category": "The Office",
+      "prompt": "Which character runs 'Cafe Disco'?",
+      "answers": [
+        "Michael Scott",
+        "Jim Halpert",
+        "Pam Beesly",
+        "Kevin Malone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Michael opens Cafe Disco in a vacant office.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-044",
+      "category": "The Office",
+      "prompt": "Who is Gabe Lewis associated with?",
+      "answers": [
+        "Sabre",
+        "Corporate New York",
+        "Utica",
+        "Prince Family Paper"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gabe is a Sabre liaison.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-045",
+      "category": "The Office",
+      "prompt": "Which branch does Jim briefly co-manage?",
+      "answers": [
+        "Scranton",
+        "Stamford",
+        "Utica",
+        "Nashua"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jim co-manages Scranton with Michael.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-046",
+      "category": "The Office",
+      "prompt": "What is the name of Angela’s favorite cat rescued in a fire drill?",
+      "answers": [
+        "Bandit",
+        "Sprinkles",
+        "Garbage",
+        "Princess Lady"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bandit is tossed through the ceiling.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-047",
+      "category": "The Office",
+      "prompt": "Whose party planning committee is often contentious?",
+      "answers": [
+        "Angela’s",
+        "Pam’s",
+        "Kelly’s",
+        "Phyllis’s"
+      ],
+      "correctIndex": 0,
+      "explanation": "Angela runs a strict PPC.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-048",
+      "category": "The Office",
+      "prompt": "Who is Michael’s boss at corporate for much of the series?",
+      "answers": [
+        "David Wallace",
+        "Robert California",
+        "Jan Levinson",
+        "Jo Bennett"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jan before David Wallace takes over.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-049",
+      "category": "The Office",
+      "prompt": "What beverage does Stanley love during meetings?",
+      "answers": [
+        "Pretzel Day lemonade",
+        "Hot tea",
+        "Coffee",
+        "Soda"
+      ],
+      "correctIndex": 2,
+      "explanation": "He’s often seen with coffee; Pretzel Day is a separate treat.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-050",
+      "category": "The Office",
+      "prompt": "Who has a penchant for identity theft jokes directed at Dwight?",
+      "answers": [
+        "Jim Halpert",
+        "Andy Bernard",
+        "Kevin Malone",
+        "Ryan Howard"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jim’s impersonations vex Dwight.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "office-051",
+      "category": "The Office",
+      "prompt": "Which couple becomes engaged at a gas station?",
+      "answers": [
+        "Jim & Pam",
+        "Michael & Holly",
+        "Dwight & Angela",
+        "Kelly & Ryan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jim proposes to Pam at a rest stop.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-052",
+      "category": "The Office",
+      "prompt": "Who often says 'Did I stutter?'",
+      "answers": [
+        "Stanley",
+        "Michael",
+        "Dwight",
+        "Andy"
+      ],
+      "correctIndex": 0,
+      "explanation": "A famous Stanley line.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-053",
+      "category": "The Office",
+      "prompt": "Who serves as regional manager for an extended period after Michael?",
+      "answers": [
+        "Andy Bernard",
+        "Dwight Schrute",
+        "Robert California",
+        "Creed Bratton"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andy eventually becomes manager.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-054",
+      "category": "The Office",
+      "prompt": "Which character is known for 'WUPHF.com'?",
+      "answers": [
+        "Ryan Howard",
+        "Kelly Kapoor",
+        "Jim Halpert",
+        "Darryl Philbin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ryan’s multi‑channel messaging startup.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-055",
+      "category": "The Office",
+      "prompt": "What’s the name of the warehouse worker who dates Kelly?",
+      "answers": [
+        "Darryl",
+        "Roy",
+        "Lonny",
+        "Madge"
+      ],
+      "correctIndex": 0,
+      "explanation": "Darryl and Kelly date for a time.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-056",
+      "category": "The Office",
+      "prompt": "Which character is famous for not working on Pretzel Day?",
+      "answers": [
+        "Stanley Hudson",
+        "Kevin Malone",
+        "Angela Martin",
+        "Oscar Martinez"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pretzel Day is sacred to Stanley.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-057",
+      "category": "The Office",
+      "prompt": "Who becomes a traveling salesman after the merger?",
+      "answers": [
+        "Karen Filippelli",
+        "Ryan Howard",
+        "Jim Halpert",
+        "Stanley Hudson"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jim stays in sales, often on the road.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-058",
+      "category": "The Office",
+      "prompt": "What is Michael’s middle name?",
+      "answers": [
+        "Gary",
+        "Scott",
+        "John",
+        "James"
+      ],
+      "correctIndex": 0,
+      "explanation": "Michael Gary Scott.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-059",
+      "category": "The Office",
+      "prompt": "Who is the scrappy IT guy who helps Dwight at times?",
+      "answers": [
+        "Nate Nickerson",
+        "Jake Palmer",
+        "Clark Green",
+        "Pete Miller"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nate works odd jobs for Dwight.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-060",
+      "category": "The Office",
+      "prompt": "Which pair forms the 'Finer Things Club'?",
+      "answers": [
+        "Pam, Oscar, Toby",
+        "Pam, Jim, Ryan",
+        "Angela, Phyllis, Kelly",
+        "Creed, Kevin, Meredith"
+      ],
+      "correctIndex": 0,
+      "explanation": "They discuss literature and art.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-061",
+      "category": "The Office",
+      "prompt": "Who says 'I am Beyoncé, always' during a dispute?",
+      "answers": [
+        "Michael",
+        "Kelly",
+        "Angela",
+        "Dwight"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kelly Kapoor declares this.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-062",
+      "category": "The Office",
+      "prompt": "Which salesman is known as 'Big Tuna' to Andy?",
+      "answers": [
+        "Jim Halpert",
+        "Stanley Hudson",
+        "Phyllis Vance",
+        "Dwight Schrute"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andy gives Jim the nickname.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-063",
+      "category": "The Office",
+      "prompt": "Who briefly manages the office under the name 'The Lizard King'?",
+      "answers": [
+        "Robert California",
+        "Jo Bennett",
+        "Charles Miner",
+        "Gabe Lewis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Robert California takes over as CEO and meddles.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-064",
+      "category": "The Office",
+      "prompt": "What product does Dunder Mifflin primarily sell?",
+      "answers": [
+        "Paper",
+        "Printers",
+        "Ink",
+        "Office chairs"
+      ],
+      "correctIndex": 0,
+      "explanation": "A paper company.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-065",
+      "category": "The Office",
+      "prompt": "Where does Michael move after leaving Scranton?",
+      "answers": [
+        "Colorado",
+        "New York",
+        "Florida",
+        "Ohio"
+      ],
+      "correctIndex": 0,
+      "explanation": "He departs to be with Holly.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-066",
+      "category": "The Office",
+      "prompt": "Who is Oscar’s partner later in the series?",
+      "answers": [
+        "Gil",
+        "Robert",
+        "Pete",
+        "Clark"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gil appears earlier as Oscar’s partner.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-067",
+      "category": "The Office",
+      "prompt": "Which employee has a secret second job as a janitor?",
+      "answers": [
+        "Creed",
+        "Stanley",
+        "Kevin",
+        "Meredith"
+      ],
+      "correctIndex": 0,
+      "explanation": "Creed’s odd side gigs.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-068",
+      "category": "The Office",
+      "prompt": "Who accidentally starts a fake fire to test safety?",
+      "answers": [
+        "Dwight",
+        "Michael",
+        "Ryan",
+        "Angela"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dwight’s over‑zealous drill.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-069",
+      "category": "The Office",
+      "prompt": "Which character often brings in baked goods from 'C H I L I S' night?",
+      "answers": [
+        "Pam",
+        "Phyllis",
+        "Kevin",
+        "Meredith"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phyllis often shares treats; Chili’s is tied to Dundies.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-070",
+      "category": "The Office",
+      "prompt": "What instrument does Andy frequently play?",
+      "answers": [
+        "Banjo",
+        "Guitar",
+        "Piano",
+        "Drums"
+      ],
+      "correctIndex": 0,
+      "explanation": "The acappella‑loving Nard Dog plays banjo.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-071",
+      "category": "The Office",
+      "prompt": "Who is the documentary’s boom mic operator who comforts Pam?",
+      "answers": [
+        "Brian",
+        "Chris",
+        "Tony",
+        "Alex"
+      ],
+      "correctIndex": 0,
+      "explanation": "Brian appears briefly in later seasons.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-072",
+      "category": "The Office",
+      "prompt": "Which character runs a bed and breakfast at Schrute Farms?",
+      "answers": [
+        "Dwight",
+        "Mose",
+        "Angela",
+        "Creed"
+      ],
+      "correctIndex": 0,
+      "explanation": "Schrute Farms B&B.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-073",
+      "category": "The Office",
+      "prompt": "Who is Angela secretly engaged to while dating Dwight again?",
+      "answers": [
+        "The Senator",
+        "Andy Bernard",
+        "Toby Flenderson",
+        "Ryan Howard"
+      ],
+      "correctIndex": 0,
+      "explanation": "State Senator Robert Lipton.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-074",
+      "category": "The Office",
+      "prompt": "What is Pam and Jim’s first child’s name?",
+      "answers": [
+        "Cecelia",
+        "Astrid",
+        "Melissa",
+        "Sasha"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cecelia (Cece) Halpert.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-075",
+      "category": "The Office",
+      "prompt": "Who is Jan’s baby’s name?",
+      "answers": [
+        "Astrid",
+        "Cecelia",
+        "Isabel",
+        "Hannah"
+      ],
+      "correctIndex": 0,
+      "explanation": "Astrid with donor.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-076",
+      "category": "The Office",
+      "prompt": "Which character suffers a heart attack in 'Stress Relief'?",
+      "answers": [
+        "Stanley",
+        "Kevin",
+        "Meredith",
+        "Creed"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stanley’s scare leads to CPR training.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-077",
+      "category": "The Office",
+      "prompt": "Who returns from anger management with a new persona?",
+      "answers": [
+        "Andy Bernard",
+        "Michael Scott",
+        "Dwight Schrute",
+        "Ryan Howard"
+      ],
+      "correctIndex": 0,
+      "explanation": "More zen… briefly.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-078",
+      "category": "The Office",
+      "prompt": "Who is known for strange mung‑bean lunches?",
+      "answers": [
+        "Creed Bratton",
+        "Kevin Malone",
+        "Kelly Kapoor",
+        "Meredith Palmer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Creed eats unusual meals.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-079",
+      "category": "The Office",
+      "prompt": "Which character has a fear of public speaking and faints?",
+      "answers": [
+        "Phyllis",
+        "Pam",
+        "Angela",
+        "Erin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pam works through nerves.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-080",
+      "category": "The Office",
+      "prompt": "What is the name of the Scranton bar the staff frequent?",
+      "answers": [
+        "Poor Richard’s Pub",
+        "The Annex",
+        "Chili’s",
+        "Warehouse Bar"
+      ],
+      "correctIndex": 0,
+      "explanation": "A local favorite.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-081",
+      "category": "The Office",
+      "prompt": "Who briefly dates Erin after Andy leaves?",
+      "answers": [
+        "Pete",
+        "Clark",
+        "Ryan",
+        "Nate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pete (Plop) dates Erin.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-082",
+      "category": "The Office",
+      "prompt": "What is the name of Dwight’s rival from Utica?",
+      "answers": [
+        "Karen",
+        "Cathy",
+        "Katy",
+        "Katie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Karen Filippelli manages Utica.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-083",
+      "category": "The Office",
+      "prompt": "Which character is famous for stealing office supplies?",
+      "answers": [
+        "Creed",
+        "Kevin",
+        "Meredith",
+        "Stanley"
+      ],
+      "correctIndex": 0,
+      "explanation": "Creed’s schemes are endless.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-084",
+      "category": "The Office",
+      "prompt": "Who is the regional manager in the series finale?",
+      "answers": [
+        "Dwight Schrute",
+        "Andy Bernard",
+        "Jim Halpert",
+        "Stanley Hudson"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dwight by the end.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-085",
+      "category": "The Office",
+      "prompt": "Who throws a garden party at Schrute Farms?",
+      "answers": [
+        "Andy Bernard",
+        "Jim Halpert",
+        "Dwight Schrute",
+        "Robert California"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andy hosts; Dwight follows a questionable guidebook.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-086",
+      "category": "The Office",
+      "prompt": "What does Michael use to 'carb‑load' on Pretzel Day?",
+      "answers": [
+        "A pretzel with toppings",
+        "Pasta",
+        "Sandwich",
+        "Donuts"
+      ],
+      "correctIndex": 0,
+      "explanation": "He piles on toppings.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-087",
+      "category": "The Office",
+      "prompt": "Which character starts the 'WUPHF' website?",
+      "answers": [
+        "Ryan Howard",
+        "Kelly Kapoor",
+        "Gabe Lewis",
+        "Oscar Martinez"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ryan’s startup.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-088",
+      "category": "The Office",
+      "prompt": "Who is the traveling saleswoman married to Bob Vance?",
+      "answers": [
+        "Phyllis Vance",
+        "Angela Martin",
+        "Meredith Palmer",
+        "Kelly Kapoor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phyllis Vance.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-089",
+      "category": "The Office",
+      "prompt": "What is Dwight’s position after being promoted in the finale?",
+      "answers": [
+        "Regional Manager",
+        "Assistant to the Regional Manager",
+        "Head of Sales",
+        "CFO"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dwight becomes RM.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-090",
+      "category": "The Office",
+      "prompt": "Which character is known for crossword puzzles and grumpiness?",
+      "answers": [
+        "Stanley Hudson",
+        "Creed Bratton",
+        "Kevin Malone",
+        "Darryl Philbin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stanley loves crosswords.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-091",
+      "category": "The Office",
+      "prompt": "Who is the temp that later becomes a VP at Corporate?",
+      "answers": [
+        "Ryan Howard",
+        "Pete Miller",
+        "Clark Green",
+        "Nate Nickerson"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ryan’s meteoric (and brief) rise.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-092",
+      "category": "The Office",
+      "prompt": "Which character breaks up with Andy via a viral video?",
+      "answers": [
+        "Erin Hannon",
+        "Kelly Kapoor",
+        "Pam Beesly",
+        "Angela Martin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Erin and Andy split publicly.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-093",
+      "category": "The Office",
+      "prompt": "Who becomes a senator?",
+      "answers": [
+        "Robert Lipton",
+        "David Wallace",
+        "Gabe Lewis",
+        "Todd Packer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Angela’s fiancé, 'The Senator'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-094",
+      "category": "The Office",
+      "prompt": "Who is the creepy traveling salesman who returns in later seasons?",
+      "answers": [
+        "Todd Packer",
+        "Deangelo Vickers",
+        "Robert California",
+        "Danny Cordray"
+      ],
+      "correctIndex": 0,
+      "explanation": "Todd Packer is the crude salesman.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-095",
+      "category": "The Office",
+      "prompt": "Which character is a former child ice‑skating champion?",
+      "answers": [
+        "Phyllis Vance",
+        "Pam Beesly",
+        "Angela Martin",
+        "Kelly Kapoor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Referenced in early seasons.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-096",
+      "category": "The Office",
+      "prompt": "Which manager forces the staff to run a 'fun run'?",
+      "answers": [
+        "Michael Scott",
+        "Dwight Schrute",
+        "Andy Bernard",
+        "Robert California"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rabies awareness fun run.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-097",
+      "category": "The Office",
+      "prompt": "Who hits Meredith with a car (by accident)?",
+      "answers": [
+        "Michael",
+        "Dwight",
+        "Jim",
+        "Andy"
+      ],
+      "correctIndex": 0,
+      "explanation": "The accident sparks the fun run.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-098",
+      "category": "The Office",
+      "prompt": "What does Creed suggest as his job title in confusion?",
+      "answers": [
+        "Quality Assurance",
+        "Quabbity Assuance",
+        "Regional Quality",
+        "Assurance Lead"
+      ],
+      "correctIndex": 1,
+      "explanation": "He misspells QA hilariously.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-099",
+      "category": "The Office",
+      "prompt": "Who is the customer service rep obsessed with pop culture?",
+      "answers": [
+        "Kelly Kapoor",
+        "Erin Hannon",
+        "Meredith Palmer",
+        "Pam Beesly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kelly is celebrity‑obsessed.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "office-100",
+      "category": "The Office",
+      "prompt": "What is the name of Angela’s favorite senator’s party?",
+      "answers": [
+        "State Senate",
+        "House",
+        "City Council",
+        "School Board"
+      ],
+      "correctIndex": 0,
+      "explanation": "State Senate (generic).",
+      "difficulty": "Medium"
+    }
+  ]
+}

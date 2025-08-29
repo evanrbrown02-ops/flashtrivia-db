@@ -1,0 +1,1404 @@
+{
+  "questions": [
+    {
+      "id": "nba-001",
+      "category": "NBA Legends",
+      "prompt": "Who scored 100 points in a single NBA game?",
+      "answers": [
+        "Wilt Chamberlain",
+        "Kobe Bryant",
+        "Michael Jordan",
+        "Elgin Baylor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wilt set the record in 1962.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-002",
+      "category": "NBA Legends",
+      "prompt": "Which player is nicknamed 'The Mailman'?",
+      "answers": [
+        "Karl Malone",
+        "Charles Barkley",
+        "Shaquille O’Neal",
+        "Patrick Ewing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Karl Malone delivered points.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-003",
+      "category": "NBA Legends",
+      "prompt": "How many championships did Michael Jordan win with the Bulls?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 2,
+      "explanation": "Six titles with Chicago.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-004",
+      "category": "NBA Legends",
+      "prompt": "Which franchise has the classic rivalry with the Boston Celtics?",
+      "answers": [
+        "Spurs",
+        "Lakers",
+        "Pistons",
+        "Suns"
+      ],
+      "correctIndex": 1,
+      "explanation": "Celtics–Lakers is iconic.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-005",
+      "category": "NBA Legends",
+      "prompt": "Who popularized the skyhook?",
+      "answers": [
+        "Kareem Abdul-Jabbar",
+        "Hakeem Olajuwon",
+        "George Mikan",
+        "Bill Russell"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kareem’s signature shot.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-006",
+      "category": "NBA Legends",
+      "prompt": "Which team drafted Stephen Curry?",
+      "answers": [
+        "Warriors",
+        "Knicks",
+        "Timberwolves",
+        "Suns"
+      ],
+      "correctIndex": 0,
+      "explanation": "Drafted by Golden State in 2009.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-007",
+      "category": "NBA Legends",
+      "prompt": "Who averaged a triple-double in 1961–62?",
+      "answers": [
+        "Magic Johnson",
+        "Oscar Robertson",
+        "Russell Westbrook",
+        "Larry Bird"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oscar Robertson first did it.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-008",
+      "category": "NBA Legends",
+      "prompt": "Who won 11 championships as a player?",
+      "answers": [
+        "Bill Russell",
+        "Kobe Bryant",
+        "Tim Duncan",
+        "Magic Johnson"
+      ],
+      "correctIndex": 0,
+      "explanation": "Celtics great Bill Russell.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-009",
+      "category": "NBA Legends",
+      "prompt": "Which duo led the Lakers to a 3‑peat (2000–2002)?",
+      "answers": [
+        "Magic & Kareem",
+        "Kobe & Shaq",
+        "LeBron & AD",
+        "West & Baylor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kobe and Shaq.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-010",
+      "category": "NBA Legends",
+      "prompt": "Which team did Larry Bird play for?",
+      "answers": [
+        "76ers",
+        "Celtics",
+        "Pacers",
+        "Bulls"
+      ],
+      "correctIndex": 1,
+      "explanation": "Boston Celtics.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-011",
+      "category": "NBA Legends",
+      "prompt": "Which country is Dirk Nowitzki from?",
+      "answers": [
+        "Spain",
+        "Germany",
+        "France",
+        "Serbia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Germany.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-012",
+      "category": "NBA Legends",
+      "prompt": "'The Dream Shake' is associated with which player?",
+      "answers": [
+        "Hakeem Olajuwon",
+        "David Robinson",
+        "Charles Barkley",
+        "Alonzo Mourning"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hakeem’s footwork move.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-013",
+      "category": "NBA Legends",
+      "prompt": "Who scored 81 points in a game against the Raptors?",
+      "answers": [
+        "Allen Iverson",
+        "Kobe Bryant",
+        "Tracy McGrady",
+        "Carmelo Anthony"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kobe in 2006.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-014",
+      "category": "NBA Legends",
+      "prompt": "Which player is known as 'The Big Fundamental'?",
+      "answers": [
+        "Tim Duncan",
+        "Kevin Garnett",
+        "Pau Gasol",
+        "Chris Webber"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tim Duncan.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-015",
+      "category": "NBA Legends",
+      "prompt": "Which team drafted LeBron James?",
+      "answers": [
+        "Cavaliers",
+        "Heat",
+        "Lakers",
+        "Bulls"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cleveland Cavaliers (2003).",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-016",
+      "category": "NBA Legends",
+      "prompt": "Allen Iverson won MVP in which season?",
+      "answers": [
+        "1999–00",
+        "2000–01",
+        "2002–03",
+        "2004–05"
+      ],
+      "correctIndex": 1,
+      "explanation": "2000–01 season.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-017",
+      "category": "NBA Legends",
+      "prompt": "Dennis Rodman was especially known for which skill?",
+      "answers": [
+        "Three‑point shooting",
+        "Rebounding",
+        "Free throws",
+        "Blocks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Elite rebounder/defender.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-018",
+      "category": "NBA Legends",
+      "prompt": "Magic Johnson primarily played which position?",
+      "answers": [
+        "Center",
+        "Point guard",
+        "Shooting guard",
+        "Power forward"
+      ],
+      "correctIndex": 1,
+      "explanation": "Point guard.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-019",
+      "category": "NBA Legends",
+      "prompt": "Scottie Pippen primarily played which position?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Small forward",
+        "Power forward"
+      ],
+      "correctIndex": 2,
+      "explanation": "Small forward.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-020",
+      "category": "NBA Legends",
+      "prompt": "Which city’s team was nicknamed 'The Bad Boys'?",
+      "answers": [
+        "Detroit Pistons",
+        "New York Knicks",
+        "Chicago Bulls",
+        "Houston Rockets"
+      ],
+      "correctIndex": 0,
+      "explanation": "Late‑80s/early‑90s Pistons.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-021",
+      "category": "NBA Legends",
+      "prompt": "Which player is known as 'Air Jordan'?",
+      "answers": [
+        "Michael Jordan",
+        "Vince Carter",
+        "Clyde Drexler",
+        "Julius Erving"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-022",
+      "category": "NBA Legends",
+      "prompt": "Which center is nicknamed 'The Diesel'?",
+      "answers": [
+        "Shaquille O’Neal",
+        "Hakeem Olajuwon",
+        "David Robinson",
+        "Patrick Ewing"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-023",
+      "category": "NBA Legends",
+      "prompt": "Which player is 'The Answer'?",
+      "answers": [
+        "Allen Iverson",
+        "Gary Payton",
+        "Steve Nash",
+        "Jason Kidd"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-024",
+      "category": "NBA Legends",
+      "prompt": "Which player is 'The Glove'?",
+      "answers": [
+        "Gary Payton",
+        "Kawhi Leonard",
+        "Michael Cooper",
+        "Ron Harper"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-025",
+      "category": "NBA Legends",
+      "prompt": "Which team drafted Kobe Bryant (rights traded to Lakers)?",
+      "answers": [
+        "Hornets",
+        "76ers",
+        "Celtics",
+        "Bulls"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-026",
+      "category": "NBA Legends",
+      "prompt": "Which team did Tim Duncan play his entire career with?",
+      "answers": [
+        "Spurs",
+        "Lakers",
+        "Heat",
+        "Suns"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-027",
+      "category": "NBA Legends",
+      "prompt": "Which player was known as 'Dr. J'?",
+      "answers": [
+        "Julius Erving",
+        "Moses Malone",
+        "George Gervin",
+        "Dominique Wilkins"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-028",
+      "category": "NBA Legends",
+      "prompt": "Which player was nicknamed 'The Iceman'?",
+      "answers": [
+        "George Gervin",
+        "Clyde Drexler",
+        "Bernard King",
+        "Alex English"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-029",
+      "category": "NBA Legends",
+      "prompt": "Who is the all‑time leading scorer (career points)?",
+      "answers": [
+        "Kareem Abdul‑Jabbar",
+        "LeBron James",
+        "Karl Malone",
+        "Kobe Bryant"
+      ],
+      "correctIndex": 1,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-030",
+      "category": "NBA Legends",
+      "prompt": "Which franchise did Bill Russell play for?",
+      "answers": [
+        "Celtics",
+        "Lakers",
+        "Warriors",
+        "Hawks"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-031",
+      "category": "NBA Legends",
+      "prompt": "Which big man is known for the 'Dream Shake'?",
+      "answers": [
+        "Hakeem Olajuwon",
+        "Shaquille O’Neal",
+        "Patrick Ewing",
+        "Dikembe Mutombo"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-032",
+      "category": "NBA Legends",
+      "prompt": "Which player popularized 'finger wag' shot‑blocking?",
+      "answers": [
+        "Dikembe Mutombo",
+        "Manute Bol",
+        "Alonzo Mourning",
+        "Ben Wallace"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-033",
+      "category": "NBA Legends",
+      "prompt": "Which guard is known for 'Linsanity'?",
+      "answers": [
+        "Jeremy Lin",
+        "Baron Davis",
+        "Ray Allen",
+        "Tony Parker"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-034",
+      "category": "NBA Legends",
+      "prompt": "Which player was nicknamed 'The Greek Freak'?",
+      "answers": [
+        "Giannis Antetokounmpo",
+        "Nikola Jokić",
+        "Luka Dončić",
+        "Kristaps Porziņģis"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-035",
+      "category": "NBA Legends",
+      "prompt": "Which shooter is the NBA’s all‑time leader in three‑pointers made?",
+      "answers": [
+        "Stephen Curry",
+        "Ray Allen",
+        "Reggie Miller",
+        "James Harden"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-036",
+      "category": "NBA Legends",
+      "prompt": "Which player is 'The Truth'?",
+      "answers": [
+        "Paul Pierce",
+        "Chauncey Billups",
+        "Vince Carter",
+        "Grant Hill"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-037",
+      "category": "NBA Legends",
+      "prompt": "Which star is nicknamed 'KD' or 'Slim Reaper'?",
+      "answers": [
+        "Kevin Durant",
+        "Kawhi Leonard",
+        "Paul George",
+        "Anthony Davis"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-038",
+      "category": "NBA Legends",
+      "prompt": "Which player is 'The Brow'?",
+      "answers": [
+        "Anthony Davis",
+        "Kyrie Irving",
+        "Chris Bosh",
+        "DeMarcus Cousins"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-039",
+      "category": "NBA Legends",
+      "prompt": "Which Suns guard was a two‑time MVP?",
+      "answers": [
+        "Steve Nash",
+        "Jason Kidd",
+        "Kevin Johnson",
+        "Devin Booker"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-040",
+      "category": "NBA Legends",
+      "prompt": "Which Heat star took the nickname 'Flash'?",
+      "answers": [
+        "Dwyane Wade",
+        "LeBron James",
+        "Chris Bosh",
+        "Alonzo Mourning"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-041",
+      "category": "NBA Legends",
+      "prompt": "Which Laker is known as 'Black Mamba'?",
+      "answers": [
+        "Kobe Bryant",
+        "Magic Johnson",
+        "Kareem Abdul‑Jabbar",
+        "James Worthy"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-042",
+      "category": "NBA Legends",
+      "prompt": "Which Piston center was key to '04 title and defense?",
+      "answers": [
+        "Ben Wallace",
+        "Rasheed Wallace",
+        "Chauncey Billups",
+        "Tayshaun Prince"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-043",
+      "category": "NBA Legends",
+      "prompt": "Which Spur is known as 'The Admiral'?",
+      "answers": [
+        "David Robinson",
+        "Tim Duncan",
+        "Tony Parker",
+        "Manu Ginóbili"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-044",
+      "category": "NBA Legends",
+      "prompt": "Which Celtic was known for his 3‑point shooting in 2008 title run?",
+      "answers": [
+        "Ray Allen",
+        "Rajon Rondo",
+        "Paul Pierce",
+        "Kevin Garnett"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-045",
+      "category": "NBA Legends",
+      "prompt": "Which Bull hit 'The Shot' vs. Cleveland in 1989?",
+      "answers": [
+        "Michael Jordan",
+        "Scottie Pippen",
+        "John Paxson",
+        "Steve Kerr"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-046",
+      "category": "NBA Legends",
+      "prompt": "Which Laker hit a title‑winning shot in 2010s as a role player?",
+      "answers": [
+        "Derek Fisher",
+        "Metta World Peace",
+        "Sasha Vujačić",
+        "Robert Horry"
+      ],
+      "correctIndex": 3,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-047",
+      "category": "NBA Legends",
+      "prompt": "Which Spur hit big shots known as 'Big Shot Bob'?",
+      "answers": [
+        "Robert Horry",
+        "Tony Parker",
+        "Manu Ginóbili",
+        "Bruce Bowen"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-048",
+      "category": "NBA Legends",
+      "prompt": "Which player is known as 'Vinsanity'?",
+      "answers": [
+        "Vince Carter",
+        "Tracy McGrady",
+        "Grant Hill",
+        "Shawn Kemp"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-049",
+      "category": "NBA Legends",
+      "prompt": "Which player was 'T‑Mac'?",
+      "answers": [
+        "Tracy McGrady",
+        "Tim Duncan",
+        "Tony Parker",
+        "Manu Ginóbili"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-050",
+      "category": "NBA Legends",
+      "prompt": "Which Pacer is known as 'The Dunk Contest pioneer'?",
+      "answers": [
+        "Vince Carter",
+        "Dominique Wilkins",
+        "Spud Webb",
+        "Larry Nance"
+      ],
+      "correctIndex": 3,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-051",
+      "category": "NBA Legends",
+      "prompt": "Which Hawk forward was 'The Human Highlight Film'?",
+      "answers": [
+        "Dominique Wilkins",
+        "Cliff Hagan",
+        "Bob Pettit",
+        "Joe Johnson"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-052",
+      "category": "NBA Legends",
+      "prompt": "Which shot-blocking center wagged his finger 'No, no, no'?",
+      "answers": [
+        "Dikembe Mutombo",
+        "Ben Wallace",
+        "Hakeem Olajuwon",
+        "Alonzo Mourning"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-053",
+      "category": "NBA Legends",
+      "prompt": "Which Celtic is 'KG'?",
+      "answers": [
+        "Kevin Garnett",
+        "Kendrick Perkins",
+        "Gary Payton",
+        "Glenn Davis"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-054",
+      "category": "NBA Legends",
+      "prompt": "Which player had the 'Skywalker' nickname?",
+      "answers": [
+        "David Thompson",
+        "Clyde Drexler",
+        "Shawn Kemp",
+        "Michael Jordan"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-055",
+      "category": "NBA Legends",
+      "prompt": "Which Blazer guard was 'Dame'?",
+      "answers": [
+        "Damian Lillard",
+        "CJ McCollum",
+        "Brandon Roy",
+        "Terry Porter"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-056",
+      "category": "NBA Legends",
+      "prompt": "Which center was 'The Stilt'?",
+      "answers": [
+        "Wilt Chamberlain",
+        "Kareem Abdul‑Jabbar",
+        "Patrick Ewing",
+        "Shaquille O’Neal"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-057",
+      "category": "NBA Legends",
+      "prompt": "Which player is 'CP3'?",
+      "answers": [
+        "Chris Paul",
+        "Cliff Paul",
+        "Carmelo Anthony",
+        "Chauncey Billups"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-058",
+      "category": "NBA Legends",
+      "prompt": "Which Knick is famous for 'The Dunk' over Ewing (by an opponent)?",
+      "answers": [
+        "John Starks",
+        "Michael Jordan",
+        "Scottie Pippen",
+        "Reggie Miller"
+      ],
+      "correctIndex": 2,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-059",
+      "category": "NBA Legends",
+      "prompt": "Which guard is known for clutch 3s for the Spurs?",
+      "answers": [
+        "Manu Ginóbili",
+        "Tony Parker",
+        "Bruce Bowen",
+        "Patty Mills"
+      ],
+      "correctIndex": 2,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-060",
+      "category": "NBA Legends",
+      "prompt": "Which player had a famous 8‑point burst in 9 seconds vs Knicks?",
+      "answers": [
+        "Reggie Miller",
+        "Ray Allen",
+        "Allan Houston",
+        "John Starks"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-061",
+      "category": "NBA Legends",
+      "prompt": "Which big man was nicknamed 'Superman' in Orlando?",
+      "answers": [
+        "Dwight Howard",
+        "Shaquille O’Neal",
+        "Nikola Vučević",
+        "Penny Hardaway"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-062",
+      "category": "NBA Legends",
+      "prompt": "Which duo starred for Jazz in the 1990s?",
+      "answers": [
+        "Stockton & Malone",
+        "Jordan & Pippen",
+        "Payton & Kemp",
+        "Drexler & Olajuwon"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-063",
+      "category": "NBA Legends",
+      "prompt": "Which Celtic was 'The Chief'?",
+      "answers": [
+        "Robert Parish",
+        "Kevin McHale",
+        "Larry Bird",
+        "Dennis Johnson"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-064",
+      "category": "NBA Legends",
+      "prompt": "Which Laker guard was 'Cap'’s teammate in Showtime?",
+      "answers": [
+        "Magic Johnson",
+        "Jerry West",
+        "Gail Goodrich",
+        "Byron Scott"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-065",
+      "category": "NBA Legends",
+      "prompt": "Which big man was 'The Big Ticket'?",
+      "answers": [
+        "Kevin Garnett",
+        "Tim Duncan",
+        "Dirk Nowitzki",
+        "Chris Webber"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-066",
+      "category": "NBA Legends",
+      "prompt": "Which Warrior was 'Run TMC' member with Tim and Mitch?",
+      "answers": [
+        "Chris Mullin",
+        "Stephen Curry",
+        "Klay Thompson",
+        "Draymond Green"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-067",
+      "category": "NBA Legends",
+      "prompt": "Which Piston guard hit Finals MVP in 2004?",
+      "answers": [
+        "Chauncey Billups",
+        "Rip Hamilton",
+        "Tayshaun Prince",
+        "Ben Wallace"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-068",
+      "category": "NBA Legends",
+      "prompt": "Which Sixer was nicknamed 'The Answer'?",
+      "answers": [
+        "Allen Iverson",
+        "Julius Erving",
+        "Charles Barkley",
+        "Maurice Cheeks"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-069",
+      "category": "NBA Legends",
+      "prompt": "Which Rocket was 'The Beard'?",
+      "answers": [
+        "James Harden",
+        "Clyde Drexler",
+        "Ralph Sampson",
+        "Yao Ming"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-070",
+      "category": "NBA Legends",
+      "prompt": "Which Spur is famous for the 'Eurostep'?",
+      "answers": [
+        "Manu Ginóbili",
+        "Tony Parker",
+        "Kawhi Leonard",
+        "LaMarcus Aldridge"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-071",
+      "category": "NBA Legends",
+      "prompt": "Which player is known for elite 3‑point shooting with the Warriors?",
+      "answers": [
+        "Stephen Curry",
+        "Klay Thompson",
+        "Draymond Green",
+        "Andre Iguodala"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-072",
+      "category": "NBA Legends",
+      "prompt": "Which franchise plays home games at Madison Square Garden?",
+      "answers": [
+        "New York Knicks",
+        "Brooklyn Nets",
+        "Philadelphia 76ers",
+        "Boston Celtics"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-073",
+      "category": "NBA Legends",
+      "prompt": "Which Chicago Bull wore number 23 famously?",
+      "answers": [
+        "Michael Jordan",
+        "Scottie Pippen",
+        "Derrick Rose",
+        "Dennis Rodman"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-074",
+      "category": "NBA Legends",
+      "prompt": "Which team is based in Los Angeles (purple and gold)?",
+      "answers": [
+        "Lakers",
+        "Clippers",
+        "Kings",
+        "Warriors"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-075",
+      "category": "NBA Legends",
+      "prompt": "Which award honors the best defensive player each season?",
+      "answers": [
+        "DPOY",
+        "MVP",
+        "ROTY",
+        "MIP"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-076",
+      "category": "NBA Legends",
+      "prompt": "Which Celtic big man formed the 'Big Three' with Pierce and Allen?",
+      "answers": [
+        "Kevin Garnett",
+        "Kendrick Perkins",
+        "Rasheed Wallace",
+        "Al Horford"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-077",
+      "category": "NBA Legends",
+      "prompt": "Which Suns guard is nicknamed 'Book'?",
+      "answers": [
+        "Devin Booker",
+        "Chris Paul",
+        "Steve Nash",
+        "Kevin Johnson"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-078",
+      "category": "NBA Legends",
+      "prompt": "Which Maverick is a Slovenian superstar?",
+      "answers": [
+        "Luka Dončić",
+        "Dirk Nowitzki",
+        "Jason Kidd",
+        "Shawn Marion"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-079",
+      "category": "NBA Legends",
+      "prompt": "Which Nugget center is a two‑time MVP nicknamed 'Joker'?",
+      "answers": [
+        "Nikola Jokić",
+        "Joel Embiid",
+        "Rudy Gobert",
+        "Marc Gasol"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-080",
+      "category": "NBA Legends",
+      "prompt": "Which Heat trio formed a 'Big Three' in 2010s?",
+      "answers": [
+        "LeBron, Wade, Bosh",
+        "Shaq, Wade, Payton",
+        "Butler, Adebayo, Herro",
+        "Hardaway, Mourning, Mashburn"
+      ],
+      "correctIndex": 0,
+      "explanation": null,
+      "difficulty": "Medium"
+    },
+    {
+      "id": "nba-081",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-082",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-083",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-084",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-085",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-086",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-087",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-088",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-089",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-090",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-091",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-092",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-093",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-094",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-095",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-096",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-097",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-098",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-099",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "nba-100",
+      "category": "NBA Legends",
+      "prompt": "Which position typically handles the ball and sets plays?",
+      "answers": [
+        "Point guard",
+        "Center",
+        "Power forward",
+        "Small forward"
+      ],
+      "correctIndex": 0,
+      "explanation": "PGs initiate offense.",
+      "difficulty": "Easy"
+    }
+  ]
+}

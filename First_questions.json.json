@@ -1,0 +1,842 @@
+[
+  {
+    "id": "gen-001",
+    "category": "General",
+    "prompt": "What is the capital of Canada?",
+    "answers": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ottawa is the federal capital; Toronto is Ontario’s capital.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "gen-002",
+    "category": "General",
+    "prompt": "Which language has the most native speakers?",
+    "answers": [
+      "English",
+      "Spanish",
+      "Mandarin Chinese",
+      "Hindi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mandarin has the most native speakers worldwide.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "gen-003",
+    "category": "General",
+    "prompt": "Which instrument has keys, pedals, and strings?",
+    "answers": [
+      "Flute",
+      "Piano",
+      "Trumpet",
+      "Violin"
+    ],
+    "correctIndex": 1,
+    "explanation": "A piano is a percussion-string instrument with hammers striking strings.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "gen-004",
+    "category": "General",
+    "prompt": "What does HTTP stand for?",
+    "answers": [
+      "HyperText Transfer Protocol",
+      "High Transfer Text Program",
+      "Hyperlink Text Processing",
+      "Host Transfer Protocol"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "gen-005",
+    "category": "General",
+    "prompt": "How many minutes are in a day?",
+    "answers": [
+      "1,140",
+      "1,200",
+      "1,260",
+      "1,440"
+    ],
+    "correctIndex": 3,
+    "explanation": "24 × 60 = 1,440.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "gen-006",
+    "category": "General",
+    "prompt": "Which company developed the Android OS?",
+    "answers": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "IBM"
+    ],
+    "correctIndex": 1,
+    "explanation": "Android Inc. was acquired by Google in 2005.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "gen-007",
+    "category": "General",
+    "prompt": "What is the chemical symbol for gold?",
+    "answers": [
+      "Ag",
+      "Au",
+      "Gd",
+      "Go"
+    ],
+    "correctIndex": 1,
+    "explanation": "Au comes from Latin 'aurum'.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "gen-008",
+    "category": "General",
+    "prompt": "A heptagon has how many sides?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "gen-009",
+    "category": "General",
+    "prompt": "Which number is a prime?",
+    "answers": [
+      "21",
+      "33",
+      "37",
+      "49"
+    ],
+    "correctIndex": 2,
+    "explanation": "37 has no positive divisors other than 1 and itself.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "gen-010",
+    "category": "General",
+    "prompt": "What device measures atmospheric pressure?",
+    "answers": [
+      "Thermometer",
+      "Anemometer",
+      "Barometer",
+      "Hygrometer"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci-001",
+    "category": "Science",
+    "prompt": "What gas do plants primarily absorb for photosynthesis?",
+    "answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Methane"
+    ],
+    "correctIndex": 2,
+    "explanation": "CO₂ + water + light → glucose and oxygen.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci-002",
+    "category": "Science",
+    "prompt": "What is the powerhouse of the cell?",
+    "answers": [
+      "Chloroplast",
+      "Mitochondrion",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mitochondria produce ATP via respiration.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci-003",
+    "category": "Science",
+    "prompt": "What is the chemical formula for table salt?",
+    "answers": [
+      "NaCl",
+      "KCl",
+      "Na2CO3",
+      "CaCO3"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci-004",
+    "category": "Science",
+    "prompt": "The speed of light in vacuum is approximately:",
+    "answers": [
+      "3,000 km/s",
+      "30,000 km/s",
+      "300,000 km/s",
+      "3,000,000 km/s"
+    ],
+    "correctIndex": 2,
+    "explanation": "~299,792 km/s.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci-005",
+    "category": "Science",
+    "prompt": "What particle carries a negative charge?",
+    "answers": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Positron"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci-006",
+    "category": "Science",
+    "prompt": "What is the largest organ in the human body?",
+    "answers": [
+      "Liver",
+      "Skin",
+      "Lungs",
+      "Brain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Skin is the largest organ by surface area.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci-007",
+    "category": "Science",
+    "prompt": "Which vitamin is produced when skin is exposed to sunlight?",
+    "answers": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci-008",
+    "category": "Science",
+    "prompt": "What scale measures earthquake magnitude?",
+    "answers": [
+      "Richter",
+      "Beaufort",
+      "Fujita",
+      "Saffir–Simpson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Moment magnitude is used now; Richter is the classic term.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sci-009",
+    "category": "Science",
+    "prompt": "Which scientist proposed the three laws of motion?",
+    "answers": [
+      "Einstein",
+      "Galileo",
+      "Newton",
+      "Kepler"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sci-010",
+    "category": "Science",
+    "prompt": "What is the pH of pure water at 25°C?",
+    "answers": [
+      "0",
+      "3",
+      "7",
+      "14"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neutral at room temperature.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "his-001",
+    "category": "History",
+    "prompt": "In which year did the Berlin Wall fall?",
+    "answers": [
+      "1987",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "correctIndex": 1,
+    "explanation": "Opened on November 9, 1989.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "his-002",
+    "category": "History",
+    "prompt": "Who was the first President of the United States?",
+    "answers": [
+      "John Adams",
+      "George Washington",
+      "Thomas Jefferson",
+      "James Madison"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "his-003",
+    "category": "History",
+    "prompt": "Which empire built the Colosseum?",
+    "answers": [
+      "Greek",
+      "Roman",
+      "Byzantine",
+      "Ottoman"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "his-004",
+    "category": "History",
+    "prompt": "Who was known as the Maid of Orléans?",
+    "answers": [
+      "Cleopatra",
+      "Joan of Arc",
+      "Elizabeth I",
+      "Catherine the Great"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "his-005",
+    "category": "History",
+    "prompt": "Magna Carta was signed in which year?",
+    "answers": [
+      "1066",
+      "1215",
+      "1492",
+      "1649"
+    ],
+    "correctIndex": 1,
+    "explanation": "King John sealed Magna Carta in 1215.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "his-006",
+    "category": "History",
+    "prompt": "The Black Death primarily occurred during which century in Europe?",
+    "answers": [
+      "11th",
+      "12th",
+      "14th",
+      "16th"
+    ],
+    "correctIndex": 2,
+    "explanation": "The pandemic peaked 1347–1351.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "his-007",
+    "category": "History",
+    "prompt": "Who discovered penicillin?",
+    "answers": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Marie Curie",
+      "Edward Jenner"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "his-008",
+    "category": "History",
+    "prompt": "Which war was triggered by the assassination of Archduke Franz Ferdinand?",
+    "answers": [
+      "Crimean War",
+      "World War I",
+      "World War II",
+      "Franco-Prussian War"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "his-009",
+    "category": "History",
+    "prompt": "The Inca citadel Machu Picchu is in which country?",
+    "answers": [
+      "Mexico",
+      "Peru",
+      "Chile",
+      "Bolivia"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "his-010",
+    "category": "History",
+    "prompt": "Who was the first woman to win a Nobel Prize?",
+    "answers": [
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Dorothy Hodgkin",
+      "Barbara McClintock"
+    ],
+    "correctIndex": 1,
+    "explanation": "Curie won in 1903 (Physics).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "geo-001",
+    "category": "Geography",
+    "prompt": "What is the largest country by area?",
+    "answers": [
+      "USA",
+      "China",
+      "Russia",
+      "Canada"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "geo-002",
+    "category": "Geography",
+    "prompt": "Which river flows through Baghdad?",
+    "answers": [
+      "Euphrates",
+      "Tigris",
+      "Nile",
+      "Jordan"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "geo-003",
+    "category": "Geography",
+    "prompt": "Mount Kilimanjaro is located in which country?",
+    "answers": [
+      "Kenya",
+      "Tanzania",
+      "Uganda",
+      "Ethiopia"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "geo-004",
+    "category": "Geography",
+    "prompt": "Which is the world’s largest desert (non‑polar)?",
+    "answers": [
+      "Gobi",
+      "Sahara",
+      "Kalahari",
+      "Arabian"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "geo-005",
+    "category": "Geography",
+    "prompt": "What is the capital of Australia?",
+    "answers": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "geo-006",
+    "category": "Geography",
+    "prompt": "Which sea separates Europe and Africa?",
+    "answers": [
+      "Black Sea",
+      "Red Sea",
+      "Mediterranean Sea",
+      "Baltic Sea"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "geo-007",
+    "category": "Geography",
+    "prompt": "Which US state has the most coastline?",
+    "answers": [
+      "Florida",
+      "California",
+      "Alaska",
+      "Hawaii"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alaska by far, including islands.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "geo-008",
+    "category": "Geography",
+    "prompt": "The city of Istanbul spans which two continents?",
+    "answers": [
+      "Europe & Asia",
+      "Asia & Africa",
+      "Europe & Africa",
+      "North & South America"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "geo-009",
+    "category": "Geography",
+    "prompt": "Which country has the most natural lakes?",
+    "answers": [
+      "USA",
+      "Canada",
+      "Finland",
+      "Russia"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "geo-010",
+    "category": "Geography",
+    "prompt": "Which mountain range forms a natural border between France and Spain?",
+    "answers": [
+      "Alps",
+      "Pyrenees",
+      "Carpathians",
+      "Apennines"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "spo-001",
+    "category": "Sports",
+    "prompt": "How many points is a free throw worth in basketball?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "Depends"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "spo-002",
+    "category": "Sports",
+    "prompt": "How many players are on the field for one soccer team?",
+    "answers": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctIndex": 2,
+    "explanation": "Excludes substitutes; goalkeeper included.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "spo-003",
+    "category": "Sports",
+    "prompt": "In baseball, how many outs end a half-inning?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "spo-004",
+    "category": "Sports",
+    "prompt": "What color flag stops a Formula 1 session?",
+    "answers": [
+      "Yellow",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "correctIndex": 1,
+    "explanation": "Red flag.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "spo-005",
+    "category": "Sports",
+    "prompt": "In tennis, what is the score called at 40–40?",
+    "answers": [
+      "Let",
+      "Deuce",
+      "Advantage",
+      "Break"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "spo-006",
+    "category": "Sports",
+    "prompt": "In American football, how many yards for a first down?",
+    "answers": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "spo-007",
+    "category": "Sports",
+    "prompt": "Which country has won the most FIFA World Cups (men)?",
+    "answers": [
+      "Brazil",
+      "Germany",
+      "Italy",
+      "Argentina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brazil has 5.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "spo-008",
+    "category": "Sports",
+    "prompt": "A perfect score in a single game of bowling is:",
+    "answers": [
+      "200",
+      "250",
+      "300",
+      "350"
+    ],
+    "correctIndex": 2,
+    "explanation": "12 strikes in a row.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "spo-009",
+    "category": "Sports",
+    "prompt": "In golf, a score of one under par on a hole is called:",
+    "answers": [
+      "Birdie",
+      "Eagle",
+      "Bogey",
+      "Albatross"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "spo-010",
+    "category": "Sports",
+    "prompt": "In the NBA, the shot clock is:",
+    "answers": [
+      "24 seconds",
+      "30 seconds",
+      "35 seconds",
+      "20 seconds"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "mov-001",
+    "category": "Movies",
+    "prompt": "Who directed 'Jurassic Park' (1993)?",
+    "answers": [
+      "James Cameron",
+      "Steven Spielberg",
+      "Ridley Scott",
+      "Peter Jackson"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "mov-002",
+    "category": "Movies",
+    "prompt": "Which film won Best Picture for 1994 films (1995 Oscars)?",
+    "answers": [
+      "Pulp Fiction",
+      "Four Weddings and a Funeral",
+      "The Shawshank Redemption",
+      "Forrest Gump"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "mov-003",
+    "category": "Movies",
+    "prompt": "Which movie features the line, 'I'll be back'?",
+    "answers": [
+      "Rocky",
+      "Die Hard",
+      "The Terminator",
+      "Predator"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "mov-004",
+    "category": "Movies",
+    "prompt": "Who plays Jack in 'Titanic' (1997)?",
+    "answers": [
+      "Matt Damon",
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Tom Cruise"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "mov-005",
+    "category": "Movies",
+    "prompt": "Which franchise includes the Hogwarts School of Witchcraft and Wizardry?",
+    "answers": [
+      "The Lord of the Rings",
+      "Harry Potter",
+      "The Chronicles of Narnia",
+      "Percy Jackson"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "mov-006",
+    "category": "Movies",
+    "prompt": "The first feature-length animated film (widely recognized) was:",
+    "answers": [
+      "Snow White and the Seven Dwarfs",
+      "Sleeping Beauty",
+      "Pinocchio",
+      "Fantasia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Released in 1937 by Disney.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "mov-007",
+    "category": "Movies",
+    "prompt": "Which actor has played both Magneto and Gandalf?",
+    "answers": [
+      "Ian McKellen",
+      "Patrick Stewart",
+      "Michael Fassbender",
+      "Hugh Jackman"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "mov-008",
+    "category": "Movies",
+    "prompt": "Which film is famous for the quote, 'May the Force be with you'?",
+    "answers": [
+      "Star Trek",
+      "Star Wars",
+      "Blade Runner",
+      "Alien"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "mov-009",
+    "category": "Movies",
+    "prompt": "In 'The Matrix', what color pill does Neo take?",
+    "answers": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "mov-010",
+    "category": "Movies",
+    "prompt": "Who directed 'Inception'?",
+    "answers": [
+      "Denis Villeneuve",
+      "Christopher Nolan",
+      "David Fincher",
+      "J.J. Abrams"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "difficulty": "Easy"
+  }
+]
